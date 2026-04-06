@@ -1,5 +1,4 @@
-# Weather-App
-Use this App to Get Weather condition 
-<br>
-Sample Image
+# My-Static-Apps
+Made this Site Using HTML/CSS and JavaScript
+
 
